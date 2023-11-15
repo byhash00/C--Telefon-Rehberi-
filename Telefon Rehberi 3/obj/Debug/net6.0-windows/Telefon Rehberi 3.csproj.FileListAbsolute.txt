@@ -1,0 +1,39 @@
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\Telefon Rehberi 3.exe
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\Telefon Rehberi 3.deps.json
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\Telefon Rehberi 3.runtimeconfig.json
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\Telefon Rehberi 3.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\Telefon Rehberi 3.pdb
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon_Rehberi_3.Form1.resources
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon_Rehberi_3.Form2.resources
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon_Rehberi_3.Form3.resources
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.csproj.GenerateResource.cache
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.AssemblyInfoInputs.cache
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.AssemblyInfo.cs
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.csproj.CoreCompileInputs.cache
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\refint\Telefon Rehberi 3.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.pdb
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.genruntimeconfig.cache
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\ref\Telefon Rehberi 3.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.csproj.AssemblyReference.cache
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\ADO.Net.Client.Annotations.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\ADO.Net.Client.Core.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\DatabaseConnections.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\DatabaseConnections.OleDb.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\obj\Debug\net6.0-windows\Telefon Rehberi 3.csproj.CopyComplete
+C:\Users\YUNUS EMRE\Desktop\Access\Telefon Rehberi 3\Telefon Rehberi 3\bin\Debug\net6.0-windows\ConnectionString.dll
